@@ -1,4 +1,4 @@
-package edu.dio.collection.ordenacao;
+package edu.dio.collection.list.ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;

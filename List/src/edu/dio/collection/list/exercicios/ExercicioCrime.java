@@ -1,4 +1,4 @@
-package edu.dio.collection.exercicios;
+package edu.dio.collection.list.exercicios;
 
 import java.util.ArrayList;
 import java.util.Iterator;
